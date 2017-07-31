@@ -35,7 +35,7 @@ define(function () {
         "Nintendo": "Nintendo 3DS",
         "Amoi": "Amoi",
         "INQ": "INQ",
-        "GenericPhone": "Tapatalk|PDA;|SAGEM|\\bmmp\\b|pocket|\\bpsp\\b|symbian|Smartphone|smartfon|treo|up.browser|up.link|vodafone|\\bwap\\b|nokia|Series40|Series60|S60|SonyEricsson|N900|MAUI.*WAP.*Browser"
+        "GenericPhone": "UnknownPhone|Tapatalk|PDA;|SAGEM|\\bmmp\\b|pocket|\\bpsp\\b|symbian|Smartphone|smartfon|treo|up.browser|up.link|vodafone|\\bwap\\b|nokia|Series40|Series60|S60|SonyEricsson|N900|MAUI.*WAP.*Browser"
     },
     "tablets": {
         "iPad": "iPad|iPad.*Mobile",
